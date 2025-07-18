@@ -19,7 +19,7 @@
 저희가 정한 퀘스트들을 수행하실때 부담가지지 마시고 재미있게 임해주시면 좋겠어요 😊
 
 <div align="center">
-  <img src="assets/c3af939d-d00c-4275-b5ec-c0d3aa195f0d.png" width="600" alt="alt text">
+  <img src="assets/c3af939d-d00c-4275-b5ec-c0d3aa195f0d.png" width="400" alt="alt text">
 </div>
 
 위 그림을 보고 어떤 불편함이 떠오르시나요? ⇒ 한번 적용해보세요!
