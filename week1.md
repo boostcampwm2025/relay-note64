@@ -68,7 +68,7 @@
 
 #### 2. 퍼플랙시티가 제안한 답변:
 
-<img width="330" height="320" alt="image" src="https://github.com/user-attachments/assets/ad2f9490-5f39-4872-8976-a013e21562c1" />
+<img width="735" height="725" alt="image" src="https://github.com/user-attachments/assets/ad2f9490-5f39-4872-8976-a013e21562c1" />
 
 #### 💡 느낀점:
 
@@ -84,7 +84,7 @@
 
 #### 2. GPT 답변:
 
-<img width="1024" height="1536" alt="4컷 만화" src="https://github.com/user-attachments/assets/b95abd9e-ccc0-4b06-b9ea-374af9659521" />
+<img width="524" height="846" alt="4컷 만화" src="https://github.com/user-attachments/assets/b95abd9e-ccc0-4b06-b9ea-374af9659521" />
 
 #### 💡 느낀 점:
 
