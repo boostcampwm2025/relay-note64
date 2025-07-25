@@ -68,7 +68,7 @@
 
 #### 2. 퍼플랙시티가 제안한 답변:
 
-<img width="775" height="723" alt="image" src="https://github.com/user-attachments/assets/ad2f9490-5f39-4872-8976-a013e21562c1" />
+<img width="330" height="320" alt="image" src="https://github.com/user-attachments/assets/ad2f9490-5f39-4872-8976-a013e21562c1" />
 
 #### 💡 느낀점:
 
