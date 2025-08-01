@@ -218,6 +218,9 @@ You’re not weak, My son.
 
 그리고 제가 하고 싶은 말 ‘그동안 많은 걸 얻었을 거고 자랑스럽게 생각해라’, ‘각자의 방법을 찾고 각자의 지식을 쌓는 시간인만큼 부담스러운 마음을 버리고 남은 기간도 잘 보내라’는 말을 적어서 전달해봤습니다.
 
+<img width="1292" height="839" alt="스크린샷 2025-08-01 13 35 37" src="https://github.com/user-attachments/assets/b9ab629e-16fc-4a6c-aecb-9f12d4ee3a88" />
+<img width="1292" height="839" alt="스크린샷 2025-08-01 13 35 44" src="https://github.com/user-attachments/assets/078ca8fe-016c-4066-9cdd-7c6e7399cd80" />
+
 **📌 느낀 점/배운 점**
 
 이렇게 마음을 전달할 때 AI에게 좀 더 엄격해지게 된다는 걸 느꼈습니다.
