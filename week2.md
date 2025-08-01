@@ -195,7 +195,7 @@ You’re not weak, My son.
 위의 말들을 다시 정리 해보면, AI에게 좋은 질문을 하기 위해서는(좋은 답변을 듣기 위해서는) 그만큼 구체적으로 질문을 해야 하고, 그렇게 했을 때 양질의 정보들을 얻을 수 있다는 것을 알게 되었습니다.
 그리고 이 원칙들을 만족하는 구체적인 질문을 실제로 하였을 때 다음과 같은 답변이 돌아왔습니다!
 
-![image.png](attachment:21c31f73-cd19-4fe1-a376-045275a0ab2f:image.png)
+<img width="861" height="523" alt="image" src="https://github.com/user-attachments/assets/5cb41727-bac4-49c3-b37d-26f46bd5333f" />
 
 너무 후한가 생각이 들기도 하지만...생각치 못한 칭찬을 받았습니다😋
 
